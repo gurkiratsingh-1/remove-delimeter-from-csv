@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  5 16:05:23 2022
-
-@author: Gurkirat
-"""
-
 import csv
 import glob 
 import os
